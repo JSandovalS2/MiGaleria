@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449533646064",
+    "firebase_url": "https://galeria-personal.firebaseio.com",
+    "project_id": "galeria-personal",
+    "storage_bucket": "galeria-personal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449533646064:android:cc5387656b53a1e8771e35",
+        "android_client_info": {
+          "package_name": "com.galeria_personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449533646064-eg95egluksv2hmjnujajgdte1sag0j7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_oee9BKFIWubINRXC_oT_AScvS-Egzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449533646064-eg95egluksv2hmjnujajgdte1sag0j7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
